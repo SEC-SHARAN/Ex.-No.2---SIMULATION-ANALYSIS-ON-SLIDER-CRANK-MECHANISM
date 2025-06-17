@@ -38,8 +38,8 @@
 ![Screenshot 2025-04-22 102930](https://github.com/user-attachments/assets/3ef1e98e-91c7-4dbf-9ee8-d855fb803d9c)
 ![vad ](https://github.com/user-attachments/assets/df38dbcf-579d-47be-ad3b-f3451bf42f39)
 
-### Name: VISHWA V
-### Register Number: 212224110062
+### Name: SEC-SHARAN
+### Register Number: 212224040309
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
